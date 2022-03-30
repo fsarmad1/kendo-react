@@ -1,0 +1,42 @@
+[
+    {
+        "userName": "Alex",
+        "firstName": "Alex",
+        "lastName": "AHales",
+        "fullName": "Alex Hales",
+        "lastLogin": "01-02-2022",
+        "enabled": "No"
+    },
+    {
+        "userName": "Blex",
+        "firstName": "Blex",
+        "lastName": "BHales",
+        "fullName": "Blex Hales",
+        "lastLogin": "01-02-2022",
+        "enabled": "Yes"
+    },
+    {
+        "userName": "Clex",
+        "firstName": "Clex",
+        "lastName": "CHales",
+        "fullName": "Clex Hales",
+        "lastLogin": "01-02-2022",
+        "enabled": "No"
+    },
+    {
+        "userName": "Dlex",
+        "firstName": "Dlex",
+        "lastName": "DHales",
+        "fullName": "Dlex Hales",
+        "lastLogin": "01-02-2022",
+        "enabled": "Yes"
+    },
+    {
+        "userName": "Flex",
+        "firstName": "Flex",
+        "lastName": "FHales",
+        "fullName": "Flex Hales",
+        "lastLogin": "01-02-2022",
+        "enabled": "No"
+    }
+]
